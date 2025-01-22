@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discover the Art of Jiujitsu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+<img src="descargas"alt="diviertete como un pequeño leon"
+        }
+        header {
+            background-color: #1a1a2e;
+            color: white;
+            padding: 20px 10px;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #162447;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .hero {
+            text-align: center;
+            padding: 50px 20px;
+            background: url('jiujitsu-banner.jpg') no-repeat center center/cover;
+            color: white;
+        }
+        .hero h1 {
+            font-size: 3em;
+            margin: 0;
+        }
+        .hero p {
+            font-size: 1.2em;
+            margin: 10px 0;
+        }
+        section {
+            padding: 20px;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        .card {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+        }
+        .card div {
+            background: white;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            width: 300px;
+            text-align: center;
+        }
+        .card div h3 {
+            margin-top: 0;
+        }
+        footer {
+            background-color: #1a1a2e;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jiujitsu: Discipline, Art, and Self-Defense</h1>
+    </header>
+    <nav>
+        <a href="#about">About Jiujitsu</a>
+        <a href="#benefits">Benefits</a>
+        <a href="#join">Join Us</a>
+    </nav>
+    <div class="hero">
+        <h1>Welcome to the World of Jiujitsu</h1>
+        <p>Learn the techniques, gain confidence, and become a part of our community.</p>
+    </div>
+    <section id="about">
+        <h2>About Jiujitsu</h2>
+        <p>Jiujitsu is a martial art that focuses on grappling and ground fighting. Originating in Japan and refined in Brazil, it is a sport, a self-defense method, and a philosophy that emphasizes technique over brute strength.</p>
+    </section>
+    <section id="benefits">
+        <h2>Benefits of Jiujitsu</h2>
+        <div class="card">
+            <div>
+                <h3>Physical Fitness</h3>
+                <p>Improve your strength, flexibility, and endurance through regular training.</p>
+            </div>
+            <div>
+                <h3>Self-Confidence</h3>
+                <p>Build mental resilience and self-belief by mastering challenging techniques.</p>
+            </div>
+            <div>
+                <h3>Community</h3>
+                <p>Join a supportive community of practitioners who share your passion for Jiujitsu.</p>
+            </div>
+        </div>
+    </section>
+    <section id="join">
+        <h2>Join Us</h2>
+        <p>Start your Jiujitsu journey today! Whether you are a beginner or an experienced practitioner, we have classes for all levels.</p>
+        <p>Contact us at <a href="mailto:info@jiujitsuacademy.com">info@jiujitsuacademy.com</a> or visit our dojo to learn more.</p>
+    </section>
+    <footer>
+        <p>&copy; 2025 Jiujitsu Academy. All rights reserved.</p>
+    </footer>
+</body>
+</html>
